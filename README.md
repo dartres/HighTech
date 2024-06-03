@@ -1,1 +1,2 @@
-# HighTech
+# HighTec
+Projeto destinado à matéria Acessibilidade digital.
