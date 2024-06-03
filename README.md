@@ -1,2 +1,2 @@
-# HighTec
-Projeto destinado à matéria Acessibilidade digital.
+# HighTech
+Projeto destinado a testar princípios de Acessibilidade digital.
